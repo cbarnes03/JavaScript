@@ -1,4 +1,4 @@
-//Code Academy JavaScript Lesson 1
+//Code Academy JavaScript Lesson 1: Introduction to JavaScript
 
 //Part 1 Introduction
 //console.log(24);
